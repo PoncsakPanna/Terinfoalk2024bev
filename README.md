@@ -1,6 +1,5 @@
 # Terinfoalk2024bev
-
-1. nev
+Poncsák Pana
 2. nev
 3. nev
 4. nev
